@@ -1,1 +1,20 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.parent{
+	-fx-background-color: #1D1E60;
+}
+.box{
+	-fx-background-color: #BABFC8;
+}
+
+.btnsHome{
+	-fx-background-color: #BABFC8;
+}
+
+.btns{
+	-fx-background-color: #BABFC8;
+}
+
+.btns:hover{
+	-fx-background-color: #707070;
+}
